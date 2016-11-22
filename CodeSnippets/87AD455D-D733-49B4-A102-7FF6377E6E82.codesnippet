@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pnd</string>
+	<string>slc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#desc#&gt; */</string>
+	<string>@property (copy, nonatomic) &lt;#type#&gt; *&lt;#name#&gt;;
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1CCAC452-D58D-4D00-AFC9-2FDAFD60AAB2</string>
+	<string>87AD455D-D733-49B4-A102-7FF6377E6E82</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Doc-Description</string>
+	<string>CopyProperty</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Doc-Description</string>
+	<string>CopyProperty</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
