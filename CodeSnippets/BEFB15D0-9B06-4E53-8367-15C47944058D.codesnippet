@@ -16,7 +16,7 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     
-    return nil;
+    return &lt;#cell#&gt;;
 }
 
 #pragma mark - UITableViewDelegate
