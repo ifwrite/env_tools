@@ -3,34 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sltd</string>
+	<string>ocmark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - UITableViewDataSource
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return &lt;#number#&gt;;
-}
-
-- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    
-    return &lt;#cell#&gt;;
-}
-
-#pragma mark - UITableViewDelegate
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    
-}</string>
+	<string>#pragma mark -
+#pragma mark - &lt;#desc#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>BEFB15D0-9B06-4E53-8367-15C47944058D</string>
+	<string>12BCEB90-1449-4DF6-A0FA-C512DC8E7D4D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>TableViewDataSourceDelegate</string>
+	<string>pmark</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TableViewDataSourceDelegate</string>
+	<string>pmark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
