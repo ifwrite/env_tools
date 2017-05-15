@@ -23,7 +23,7 @@
 #pragma mark -
 #pragma mark - UITableViewDelegate
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BEFB15D0-9B06-4E53-8367-15C47944058D</string>
