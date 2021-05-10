@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ocmark</string>
+	<string>sli</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - &lt;#desc#&gt;</string>
+	<string>&lt;#name#&gt; = [[&lt;#type#&gt; alloc] init];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>12BCEB90-1449-4DF6-A0FA-C512DC8E7D4D</string>
+	<string>3C47413A-BC0E-4C32-A65F-887AEA2BA133</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>pmark</string>
+	<string>sli</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pmark</string>
+	<string>sli</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

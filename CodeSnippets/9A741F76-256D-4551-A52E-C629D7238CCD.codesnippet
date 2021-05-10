@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ocmark</string>
+	<string>slm</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - &lt;#desc#&gt;</string>
+	<string>[&lt;#view#&gt; mas_makeConstraints:^(MASConstraintMaker *make) {
+        
+    }];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>12BCEB90-1449-4DF6-A0FA-C512DC8E7D4D</string>
+	<string>9A741F76-256D-4551-A52E-C629D7238CCD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>pmark</string>
+	<string>slm</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pmark</string>
+	<string>slm</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

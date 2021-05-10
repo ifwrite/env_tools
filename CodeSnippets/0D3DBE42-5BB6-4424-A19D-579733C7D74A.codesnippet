@@ -3,21 +3,41 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ocmark</string>
+	<string>slui</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - &lt;#desc#&gt;</string>
+	<string>#pragma mark - init
+- (instancetype)initWithFrame:(CGRect)frame {
+    if (self = [super initWithFrame:frame]) {
+        [self setUI];
+    }
+    return self;
+}
+
+- (void)setUI {
+
+}
+
++ (BOOL)requiresConstraintBasedLayout {
+    return YES;
+}
+
+- (void)updateConstraints {
+    [super updateConstraints];
+    
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>12BCEB90-1449-4DF6-A0FA-C512DC8E7D4D</string>
+	<string>0D3DBE42-5BB6-4424-A19D-579733C7D74A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>pmark</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pmark</string>
+	<string>slui</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
