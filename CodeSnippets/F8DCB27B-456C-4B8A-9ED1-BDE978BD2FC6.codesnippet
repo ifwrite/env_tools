@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: @sl &lt;#test#&gt;</string>
+	<string>// TODO: @sl todo &lt;#test#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8DCB27B-456C-4B8A-9ED1-BDE978BD2FC6</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -21,6 +21,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
