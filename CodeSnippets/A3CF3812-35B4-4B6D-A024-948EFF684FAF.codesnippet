@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smark</string>
+	<string>slmake</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - &lt;#desc#&gt;</string>
+	<string>snp.makeConstraints { make in
+            make.&lt;#xx#&gt;
+        }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E6AD9F27-C9AF-458B-83D9-AF7EB7BB7FBA</string>
+	<string>A3CF3812-35B4-4B6D-A024-948EFF684FAF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smark</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift-Mark</string>
+	<string>slmake</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
